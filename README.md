@@ -23,7 +23,7 @@
 ### Lihat Dokumentasi Penggunaan Dibawah
 
 <details>
-  <summary>▶ Tools Murid Doxing</summary>
+  <summary> Tools Murid Doxing</summary>
 
   <br>
 

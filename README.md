@@ -22,3 +22,11 @@
 
 ### Lihat Dokumentasi Penggunaan Dibawah
 
+<details>
+  <summary>▶ Tools Murid Doxing</summary>
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/gambar.png" alt="Contoh Gambar" width="500">
+
+</details>

@@ -147,3 +147,16 @@ __________________________
 __________________________
 
 </details>
+
+### Kebutuhan Untuk Running Tools Ini
+- Aplikasi Termux
+- Python 3.12.12
+- Internet Aktif
+```
+Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
+```
+
+> [!CAUTION] 
+> **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
+
+<h1 align="center"><code>BYEXE OFFICIAL</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/file_00000000602872098299a0d3656e10a0_1.png" width="590"><br><br>

@@ -41,10 +41,65 @@
 </details>
 
 <details>
+  <summary> [02] Sadap Kamera</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/IMG-20251228-WA0053.jpg" alt="Contoh Gambar" width="500">
+
+</details>
+
+</details>
+
+<details>
+  <summary> [03] Lacak Informasi IP</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175546.png" alt="Contoh Gambar" width="500">
+
+</details>
+
+</details>
+
+<details>
+  <summary> [04] Cek Info Nomor Telepon</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175824.png" alt="Contoh Gambar" width="500">
+
+</details>
+
+</details>
+
+<details>
   <summary> [06] Dump Database Sekolah</summary>
 
   <br>
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-151435.png" alt="Contoh Gambar" width="500">
+
+</details>
+
+</details>
+
+<details>
+  <summary> [07] Cek NISN</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920879685.jpg" alt="Contoh Gambar" width="500">
+
+</details>
+
+</details>
+
+<details>
+  <summary> [08] Get DAPODIK Siswa</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920971428.jpg" alt="Contoh Gambar" width="500">
 
 </details>

@@ -1,1 +1,1 @@
-# <h1 align="center"><code>AI CLI</code></h1> <p align="center"> <img src="docs_tools_murdox/blob/master/Img/photo_2025-09-27_20-12-43.jpg" width="590"><br><br>
+# <h1 align="center"><code>AI CLI</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/master/Img/file_00000000602872098299a0d3656e10a0_1.png" width="590"><br><br>

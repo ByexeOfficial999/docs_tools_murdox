@@ -55,6 +55,14 @@ __________________________
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/IMG-20251228-WA0053.jpg" alt="Contoh Gambar" width="500">
 
+  ### Cara Kerja
+  - Pilih Tunnel
+  - Dapet Link Phishing
+  - Kirim Link Ke Target
+  - Target Buka Link
+  - Lokasi Ditampilkan Di Terminal
+__________________________
+
 </details>
 
 </details>
@@ -65,6 +73,11 @@ __________________________
   <br>
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175546.png" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan Alamat IP Target
+  - Informasi Ditampilkan
+__________________________
 
 </details>
 
@@ -77,6 +90,11 @@ __________________________
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175824.png" alt="Contoh Gambar" width="500">
 
+  ### Cara Kerja
+  - Masukkan Nomor Telepon
+  - Informasi Ditampilkan
+__________________________
+
 </details>
 
 </details>
@@ -87,6 +105,11 @@ __________________________
   <br>
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-151435.png" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan NPSN Target
+  - Database Tersimpan Di /sdcard/DUMP_DB
+__________________________
 
 </details>
 
@@ -99,6 +122,13 @@ __________________________
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920879685.jpg" alt="Contoh Gambar" width="500">
 
+  ### Cara Kerja
+  - Masukkan NISN Target
+  - Masukkan Nama Ibu Kandung Target
+  - Masukkan CAPTCHA
+  - Informasi Ditampilkan
+__________________________
+
 </details>
 
 </details>
@@ -109,5 +139,11 @@ __________________________
   <br>
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920971428.jpg" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan NPSN Sekolah Siswa
+  - Masukkan Nama Target
+  - Informasi DAPODIK Siswa Ditampilkan
+__________________________
 
 </details>

@@ -32,10 +32,19 @@
 </details>
 
 <details>
-  <summary> Fitur Lacak Lokasi</summary>
+  <summary> [01] Lacak Lokasi</summary>
 
   <br>
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766918505093.jpg" alt="Contoh Gambar" width="500">
+
+</details>
+
+<details>
+  <summary> [06] Dump Database Sekolah</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-151435.png" alt="Contoh Gambar" width="500">
 
 </details>

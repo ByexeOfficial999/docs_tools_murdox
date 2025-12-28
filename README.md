@@ -160,12 +160,12 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
 
 ### List Harga Akses Tools Murdox
-| Durasi | Harga |
+| MASA AKTIF | HARGA |
 |--------|-------|
-| ![1 Hari](https://img.shields.io/badge/1_Hari-Active-blue?style=for-the-badge) | ![Rp20k](https://img.shields.io/badge/Rp_20.000-Success-success?logo=money&logoColor=white&style=for-the-badge) |
-| ![1 Minggu](https://img.shields.io/badge/1_Minggu-Active-blue?style=for-the-badge) | ![Rp30k](https://img.shields.io/badge/Rp_30.000-Success-success?logo=money&logoColor=white&style=for-the-badge) |
-| ![1 Bulan](https://img.shields.io/badge/1_Bulan-Active-blue?style=for-the-badge) | ![Rp50k](https://img.shields.io/badge/Rp_50.000-Success-success?logo=money&logoColor=white&style=for-the-badge) |
-| ![2 Bulan](https://img.shields.io/badge/2_Bulan-Active-blue?style=for-the-badge) | ![Rp80k](https://img.shields.io/badge/Rp_80.000-Success-success?logo=money&logoColor=white&style=for-the-badge) |
+| ![](https://img.shields.io/badge/1_HARI!_ㅤ-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_10.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/1_MINGGU-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_30.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/1_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_50.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/2_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_80.000-SAJA-success?style=for-the-badge) |
 
 <h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766938463472.jpg" width="590"><br><br>
   

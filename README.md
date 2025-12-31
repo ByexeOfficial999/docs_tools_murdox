@@ -181,6 +181,8 @@ _Silakan hubungi admin untuk melakukan transaksi secara private dan aman. Tools 
 | 1  | AndraxC2 | Decoder |
 | 2  | Vindra Ganzz | Decoder |
 | 3  | Thonxyz404 | Decoder|
+| 4  | Rolandino | Buronan Polda|
+| 5  | Polygon | Decoder|
 ___
 
 <h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766938463472.jpg" width="590"><br><br>

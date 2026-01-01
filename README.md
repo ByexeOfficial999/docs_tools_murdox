@@ -140,7 +140,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920971428.jpg" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-135733.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NPSN Sekolah Siswa

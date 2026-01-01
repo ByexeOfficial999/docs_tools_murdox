@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/static/v1?label=MuridDoxing&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Byexe+Official&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ByexeOfficial999/docs_tools_murdox?logo=github&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=Version&color=green&message=1.0&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
+  <img src="https://img.shields.io/static/v1?label=Version&color=green&message=1.12&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
 
   <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
   <img src="https://img.shields.io/static/v1?label=Python&color=green&message=3.12&logo=python&logoColor=white&style=flat">
@@ -29,7 +29,7 @@
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-171027.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-134358.png" alt="Contoh Gambar" width="500">
 
 </details>
 
@@ -146,6 +146,20 @@ __________________________
   - Masukkan NPSN Sekolah Siswa
   - Masukkan Nama Target
   - Informasi DAPODIK Siswa Ditampilkan
+__________________________
+
+</details>
+
+<details>
+  <summary> [11] Cek E Wallet</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920971428.jpg" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan Nomor Telepon
+  - Informasi Ditampilkan
 __________________________
 
 </details>

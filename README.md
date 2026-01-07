@@ -29,7 +29,7 @@
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-134358.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260108-053901.png" alt="Contoh Gambar" width="500">
 
 </details>
 
@@ -179,7 +179,9 @@ ___
 ### List Harga Akses Tools Murdox
 | MASA AKTIF | HARGA |
 |--------|-------|
-| ![](https://img.shields.io/badge/PERMANEN_-AKSES-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_50.000-success?style=for-the-badge) |
+| ***1 Minggu*** | ***IDR 50.000*** |
+| ***1 Bulan*** | ***IDR 70.000*** |
+| ***Permanen*** | ***IDR 100.000*** |
 
 ### Payment Yang Tersedia 
 ![DANA](https://img.shields.io/badge/DANA-Available-success?style=for-the-badge&logo=money)

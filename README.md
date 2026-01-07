@@ -67,8 +67,6 @@ __________________________
 
 </details>
 
-</details>
-
 <details>
   <summary> [03] Lacak Informasi IP</summary>
 
@@ -80,8 +78,6 @@ __________________________
   - Masukkan Alamat IP Target
   - Informasi Ditampilkan
 __________________________
-
-</details>
 
 </details>
 
@@ -99,8 +95,6 @@ __________________________
 
 </details>
 
-</details>
-
 <details>
   <summary> [06] Dump Database Sekolah</summary>
 
@@ -112,8 +106,6 @@ __________________________
   - Masukkan NPSN Target
   - Database Tersimpan Di /sdcard/DUMP_DB
 __________________________
-
-</details>
 
 </details>
 
@@ -133,8 +125,6 @@ __________________________
 
 </details>
 
-</details>
-
 <details>
   <summary> [08] Get DAPODIK Siswa</summary>
 
@@ -151,7 +141,7 @@ __________________________
 </details>
 
 <details>
-  <summary> [11] Cek E Wallet</summary>
+  <summary> [10] Cek E Wallet</summary>
 
   <br>
 
@@ -160,6 +150,34 @@ __________________________
   ### Cara Kerja
   - Masukkan Nomor Telepon
   - Informasi Ditampilkan
+__________________________
+
+</details>
+
+<details>
+  <summary> [11] Cek PTK</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260104-110326.png" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan Nama/NIK/NUPTK
+  - Informasi Ditampilkan
+__________________________
+
+</details>
+
+<details>
+  <summary> [12] Cek BPJS</summary>
+
+  <br>
+
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260105-182735.png" alt="Contoh Gambar" width="500">
+
+  ### Cara Kerja
+  - Masukkan NIK
+  - Informasi Ditampilkan 
 __________________________
 
 </details>

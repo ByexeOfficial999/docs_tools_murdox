@@ -21,6 +21,9 @@
 - Validasi NISN Berdasarkan Database Resmi Kemendikbudristek Jika Target Merupakan Seorang Siswa
 - Mengambil Data Pokok Pendidikan Jika Target Merupakan Seorang Siswa
 - Melihat Informasi Nama Nama Kontak Yang Menyimpan Nomor Telepon Yang Kamu Input (Semacam Aplikasi Getcontact)
+- Mengecek Nomor Telepon Apakah Terdaftar Di E-Wallet Seperti Dana, Ovo, Shoppepay, Linkaja, dan Gopay
+- Mengambil Informasi Kartu BPJS Cukup Dengan Memasukkan NIK Target Maka Informasi Kartu BPJS Ditampilkan
+- Mengambil Informasi Data & Status PTK Secara Detail Dan Terupdate Berdasarkan Data Resmi DAPODIK/Dukcapil/Kemendikbud
 
 ### Lihat Dokumentasi Penggunaan Dibawah
 

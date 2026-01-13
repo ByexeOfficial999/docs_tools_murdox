@@ -28,11 +28,11 @@
 ### Lihat Dokumentasi Penggunaan Dibawah
 
 <details>
-  <summary> Tools Murid Doxing</summary>
+  <summary> [++] Tools SCHOOLNEXUS</summary>
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260108-053901.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260113-210954.png" alt="Contoh Gambar" width="500">
 
 </details>
 

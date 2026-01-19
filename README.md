@@ -25,7 +25,7 @@
 - Mengambil Informasi Kartu BPJS Cukup Dengan Memasukkan NIK Target Maka Informasi Kartu BPJS Ditampilkan
 - Mengambil Informasi Data & Status PTK Secara Detail Dan Terupdate Berdasarkan Data Resmi DAPODIK/Dukcapil/Kemendikbud
 
-### Lihat Dokumentasi Penggunaan Dibawah
+### Lihat Dokumentasi Penggunaan Dibawah Dengan Cara Meng-klik Fitur Nya
 
 <details>
   <summary> [++] Tools SCHOOLNEXUS</summary>
